@@ -2,37 +2,37 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: About me
+    url: about.html
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: github
+        url: https://github.com/devidaskgodse
+      - title: rss feed
+        url: feed.xml
+      - title: e-mail
+        url: mailto:devidaskgodse+website@gmail.com
+      - title: anonymous form
+        url: https://forms.gle/h6VjRTk4w6Q5x6oq5
 
-  - title: all posts
+  - title: Spare time interests
+    entries:
+      - title: Scripting and tinkering with software
+      - title: Creative writing
+      - title: Solitary walks
+
+  - title: Some writings
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See all...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
+  #  - title: posts by category
+  #    post_list:
+  #      category: example2
+  #      show_more: true
+  #      show_more_text: See more posts...
+  #      show_more_url: example2-archive.html
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  - title: Useful resourses
+    url: resources.html
