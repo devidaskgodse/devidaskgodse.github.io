@@ -1,0 +1,25 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>{{ page.title }}</title>
+        <meta name="author" content="Devidas K. Godse" />
+    </head>
+    <style>
+        {% include css/screen.css %}
+        {% include css/syntax.css %}
+    </style>
+    <body>
+        <div class="site">
+        {% include header.html %}
+            <div id="post">
+                <h1 id="{{ page.title }}">
+                    {{ page.title }}
+                </h1>
+                {{ content }}
+
+            {% include footer.html %}
+        </div>
+
+    </body>
+</html>
