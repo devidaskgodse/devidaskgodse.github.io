@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /writing/
 ---
 
 # Blog post(s)
