@@ -4,13 +4,13 @@ layout: default
 
 # Blog post(s)
 <ul class="posts">
-    {% for piece in site.post %}
+    {% for post in site.posts %}
     <li>
-        <span>{{ piece.date | date: "%Y-%m-%d" }}</span> &raquo;
+        <span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo;
         <a
-            href="{{ piece.url }}"
-            >{{ piece.title }}</a
+            href="{{ post.url }}"
+            >{{ post.title }}</a
         >
     </li>
-    {% endfor %}
+{% endfor %}
 </ul>
