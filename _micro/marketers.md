@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Marketers behind the story
 date: 2022-09-27 07:27:00 +0530
 city: Mumbai, India

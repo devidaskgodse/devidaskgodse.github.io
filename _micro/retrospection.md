@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Constructive Retrospection
 date: 2023-05-23 05:37:00 +0530
 city: Mumbai, India

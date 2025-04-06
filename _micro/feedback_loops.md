@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Take control of feedback loops in life
 date: 2022-09-27 07:27:00 +0530
 city: Mumbai, India
