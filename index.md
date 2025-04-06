@@ -21,4 +21,3 @@ I like to travel, trek and try new foods.
     </li>
 {% endfor %}
 </ul>
-
