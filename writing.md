@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Blog post(s)
 <ul class="posts">
     {% for piece in site.post %}
