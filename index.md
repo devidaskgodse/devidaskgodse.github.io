@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 I'm Devidas K. Godse. I research on granular systems at [Department of Energy Science and Engineering](https://www.ese.iitb.ac.in/) at [IIT Bombay](http://www.iitb.ac.in/).
