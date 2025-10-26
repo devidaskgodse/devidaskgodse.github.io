@@ -2,12 +2,11 @@
 layout: default
 ---
 
-I'm Devidas K. Godse. I research on granular systems at [Department of Energy Science and Engineering](https://www.ese.iitb.ac.in/) at [IIT Bombay](http://www.iitb.ac.in/).
+I research on granular systems at [IIT Bombay](http://www.iitb.ac.in/).
 
+Current interests: complex systems, world as a hypergraph, and the impact of design and communication on psychology and technology.
 
-I enjoy exploring ideas and mental models. I am also interested in tools and technologies as they have potential to change the way we operate in the world.
-
-I like to travel, trek and try new foods.
+You can connect with me at [LinkedIn](https://www.linkedin.com/in/devidaskgodse/).
 
 ## Articles list
 <ul class="posts">
